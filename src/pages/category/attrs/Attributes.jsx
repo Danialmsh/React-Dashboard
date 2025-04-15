@@ -111,7 +111,7 @@ const Attributes = () => {
             data={data}
             dataInfo={dataInfo}
             additionField={additionField}
-            numOfPAge={5}
+            numOfPAge={15}
             searchParams={searchParams}
             loading={loading}
           >

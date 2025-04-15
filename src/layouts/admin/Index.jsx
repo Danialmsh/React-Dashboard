@@ -19,7 +19,7 @@ const Index = () => {
       {loading ? (
         <h1 className="text-center waiting_center">لطفا صبر کنید...</h1>
       ) : isLogin ? (
-        <div>
+        <div id="dashboard">
           <Content />
           <Navbar />
           <Sidebar />
