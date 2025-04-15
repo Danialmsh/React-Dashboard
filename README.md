@@ -21,19 +21,19 @@
 
 ```bash
 
-## 1. نصب وابستگی‌ها
+1. نصب وابستگی‌ها
 
-### `npm install`
+npm install
 
-## 2. اجرای پروژه
+2. اجرای پروژه
 
-### `npm start`
+npm start
 
-## 3. UserName:
+3. UserName:
 
-### `09110000000`
+09110000000
 
-## 3. password:
+3. password:
 
-### `123456`
+123456
 
